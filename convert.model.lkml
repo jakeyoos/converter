@@ -5,5 +5,3 @@ include: "*.view"
 
 # include all the dashboards
 include: "*.dashboard"
-
-explore: active_users {}
