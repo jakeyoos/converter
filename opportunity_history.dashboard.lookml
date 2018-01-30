@@ -45,7 +45,7 @@
         color: purple}]
     point_style: none
     interpolation: linear
-      
+
   - name: historical_pipeline_snapshot
     title: 'Historical Pipeline Snapshot'
     type: looker_area
@@ -79,6 +79,5 @@
     x_axis_scale: auto
     point_style: none
     interpolation: step
-  
-    
-    
+
+
